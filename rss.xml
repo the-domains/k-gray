@@ -4,7 +4,7 @@
         <description><![CDATA[k-gray]]></description>
         <link>https://thegrid.ai/k-gray/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 18:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 18:46:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/k-gray/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Big Sur]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/k-gray/iceland/index.html</link>
             <guid isPermaLink="false">1d887f84-37fe-49fa-a51d-904f8e4551a0</guid>
             <pubDate>Sat, 02 Apr 2016 18:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/k-gray/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">4e6eb29e-cd64-441a-9758-d494b3f695ee</guid>
-            <pubDate>Sat, 02 Apr 2016 18:31:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
