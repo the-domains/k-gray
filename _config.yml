@@ -1,7 +1,7 @@
 name: k-gray
 favicon: null
-layout_spectrum: 0.04752037371508777
-typography_spectrum: 0.8756280469242483
+layout_spectrum: 0.24216
+typography_spectrum: 0.49902
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.542823727009818
-  lightness: 0.21629842789843678
-  saturation: 0.9181739897467196
+    - '#92b1a2'
+    - '#2f2900'
+    - '#b6c6bb'
+    - '#7b7a29'
+    - '#51582b'
+  brandStrength: 0.125
+  lightness: 1
+  saturation: 0.5
   rhythmicContrast: 0.612566001014784
 purpose: []
